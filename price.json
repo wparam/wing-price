@@ -1,0 +1,125 @@
+{
+    "wings": [
+        {
+            "comprehensive_score": 9518,
+            "cultivation_score": 368,
+            "privilege_rating": 1218,
+            "privilege_number": 5,
+            "color": 1722,
+            "texture": 2138,
+            "size": 2640,
+            "speed": 1800,
+            "price": 5800
+        },
+        {
+            "comprehensive_score": 9957,
+            "cultivation_score": 542,
+            "privilege_rating": 1557,
+            "privilege_number": 5,
+            "color": 1680,
+            "texture": 2160,
+            "size": 2760,
+            "speed": 1800,
+            "price": 8000
+        },
+        {
+            "comprehensive_score": 9631,
+            "cultivation_score": 352,
+            "privilege_rating": 1185,
+            "privilege_number": 5,
+            "color": 1980,
+            "texture": 2040,
+            "size": 2760,
+            "speed": 1666,
+            "price": 6900
+        },
+        {
+            "comprehensive_score": 10817,
+            "cultivation_score": 609,
+            "privilege_rating": 1787,
+            "privilege_number": 6,
+            "color": 2070,
+            "texture": 1920,
+            "size": 2640,
+            "speed": 2400,
+            "price": 8750
+        },
+        {
+            "comprehensive_score": 14568,
+            "cultivation_score": 1551,
+            "privilege_rating": 4007,
+            "privilege_number": 8,
+            "color": 2761,
+            "texture": 2280,
+            "size": 2880,
+            "speed": 2640,
+            "price": 48888
+        },
+        {
+            "comprehensive_score": 12735,
+            "cultivation_score": 1157,
+            "privilege_rating": 2993,
+            "privilege_number": 7,
+            "color": 2182,
+            "texture": 1920,
+            "size": 2760,
+            "speed": 2880,
+            "price": 19500
+        },
+        {
+            "comprehensive_score": 11659,
+            "cultivation_score": 1072,
+            "privilege_rating": 2779,
+            "privilege_number": 7,
+            "color": 1800,
+            "texture": 2400,
+            "size": 2880,
+            "speed": 1800,
+            "price": 16888
+        },
+        {
+            "comprehensive_score": 12458,
+            "cultivation_score": 1025,
+            "privilege_rating": 2696,
+            "privilege_number": 7,
+            "color": 2182,
+            "texture": 2640,
+            "size": 2520,
+            "speed": 2420,
+            "price": 20500
+        },
+        {
+            "comprehensive_score": 10335,
+            "cultivation_score": 480,
+            "privilege_rating": 1425,
+            "privilege_number": 5,
+            "color": 2070,
+            "texture": 2040,
+            "size": 2520,
+            "speed": 2280,
+            "price": 6666
+        },
+        {
+            "comprehensive_score": 10365,
+            "cultivation_score": 480,
+            "privilege_rating": 1425,
+            "privilege_number": 5,
+            "color": 1980,
+            "texture": 2160,
+            "size": 2880,
+            "speed": 1920,
+            "price": 10500
+        },
+        {
+            "comprehensive_score": 12400,
+            "cultivation_score": 965,
+            "privilege_rating": 2538,
+            "privilege_number": 7,
+            "color": 2182,
+            "texture": 2520,
+            "size": 2520,
+            "speed": 2640,
+            "price": 16600
+        }
+    ]
+}
